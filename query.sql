@@ -1,5 +1,5 @@
 -- FOR ORIGINAL QUERIES THAT I CAME UP WITH,
--- SCROLL DOWN TO THE BOTTOM OF THE FILE.ADD
+-- SCROLL DOWN TO THE BOTTOM OF THE FILE.
 
 -- ----------------------------
 -- Queries from the tutorial --
